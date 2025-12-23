@@ -1015,70 +1015,51 @@ Divination / Liu Yao
 
 # 解释四：量子纠缠理论（现代物理视角）
 
-<div class="grid grid-cols-2 gap-10 pt-4">
+<div class="grid grid-cols-2 gap-4 pt-1">
 
 <div>
 
-### 量子纠缠简介
+<h3 class="text-sm font-bold">量子纠缠简介</h3>
 
-<div class="bg-purple-500/5 p-5 rounded-lg border border-purple-500/20 mt-4 text-sm space-y-3">
-
-- **2022年诺贝尔物理学奖**授予量子纠缠研究
-- 处于纠缠状态的两个量子，**不论相隔多远**，一个变化，另一个**瞬时响应**
-- 爱因斯坦称之为"**鬼魅似的远距作用**"
-
+<div class="bg-purple-500/5 p-3 rounded-lg border border-purple-500/20 mt-1 text-xs space-y-2">
+<ul class="list-disc pl-4 space-y-1 opacity-90">
+<li><b>2022年诺贝尔物理学奖</b>重点研究</li>
+<li>纠缠量子<b>无视距离瞬时响应</b></li>
+<li>爱因斯坦："<b>鬼魅似的远距作用</b>"</li>
+</ul>
 </div>
 
-### 与易经的关联
+<h3 class="text-sm font-bold mt-3">与易经的关联</h3>
 
-<div class="mt-6 space-y-3 text-sm">
-
-<div class="border-l-4 border-blue-500 pl-4 py-2">
-  《易经·杂卦传》："咸速也" —— 感应是超越时空的瞬间发生
+<div class="mt-1 space-y-2 text-xs">
+<div class="border-l-2 border-blue-500 pl-3 py-1">
+<b>《杂卦传》</b>："咸速也" — 感应超越时空
 </div>
-
-<div class="border-l-4 border-green-500 pl-4 py-2">
-  《系辞》："不疾而速，不行而至" —— 不需要速度，却能瞬间到达
+<div class="border-l-2 border-green-500 pl-3 py-1">
+<b>《系辞》</b>："不疾而速，不行而至"
 </div>
-
-<div class="border-l-4 border-purple-500 pl-4 py-2">
-  咸卦（泽山咸）专门描述"无心之感"，即自然界的客观感应
+<div class="border-l-2 border-purple-500 pl-3 py-1">
+<b>咸卦</b>：描述自然界的客观感应
 </div>
-
 </div>
 
 </div>
 
 <div>
 
-### 六爻的理解
+<h3 class="text-sm font-bold">六爻的理解</h3>
 
-<div class="bg-blue-500/5 p-5 rounded-lg border border-blue-500/20 mt-4">
-
-<div class="space-y-4 text-sm">
-
-<div>
-  <b>1. 意识纠缠：</b>起卦者的意识与所问之事之间存在"量子纠缠"
+<div class="bg-blue-500/5 p-3 rounded-lg border border-blue-500/20 mt-1">
+<div class="space-y-2 text-xs">
+<div><b>1. 意识纠缠：</b>心念与事件存在"纠缠"</div>
+<div><b>2. 符号呈现：</b>卦象是纠缠态的呈现</div>
+<div><b>3. 状态变化：</b>阴阳变动 = 量子态坍缩</div>
+<div><b>4. 观察者效应：</b>"观测影响结果"</div>
+</div>
 </div>
 
-<div>
-  <b>2. 符号呈现：</b>卦象是这种纠缠状态的符号化呈现
-</div>
-
-<div>
-  <b>3. 状态变化：</b>阴阳爻的变化 = 量子态的叠加与坍缩
-</div>
-
-<div>
-  <b>4. 观察者效应：</b>"观测影响结果"——这与量子力学的"观察者效应"相通
-</div>
-
-</div>
-
-</div>
-
-<div class="mt-6 p-4 bg-yellow-500/10 border-l-4 border-yellow-500 rounded text-xs">
-  <b>⚠️ 注：</b>此为类比性解释，量子力学适用于微观世界，能否直接解释宏观占卜现象尚存争议
+<div class="mt-3 p-2 bg-yellow-500/10 border-l-4 border-yellow-500 rounded text-[10px]">
+<b>⚠️ 注：</b>此为类比性解释，微观量子力学能否解释宏观现象尚存争议
 </div>
 
 </div>
@@ -1087,88 +1068,81 @@ Divination / Liu Yao
 
 ---
 
-# 解释五：高维计算机理论
+# 解释五：高维计算机理论 (1/2)
 
-<div class="grid grid-cols-2 gap-8 pt-2">
-
-<div>
-
-### 拉普拉斯妖（Laplace's Demon）
-
-<div class="bg-gray-500/5 p-4 rounded-lg border border-gray-500/20 mt-3 text-xs space-y-3">
-
-**1814年法国数学家拉普拉斯提出**
-
-**核心理论：**
-
-- "若存在一位智者，能知道宇宙中每个原子的位置和动量，便可通过物理定律**预测宇宙的过去与未来**"
-- "宇宙里最大的物体到最小的粒子的运动都会包含在一条简单公式中"
-- "对于这智者来说没有事物会是含糊的，而**未来只会像过去般出现在他面前**"
-
-</div>
-
-### 算力悖论
-
-<div class="mt-4 bg-red-500/5 p-4 rounded-lg border border-red-500/20 text-xs space-y-2">
-
-- 要预测一个系统，需要**超过该系统的计算能力**
-- 预测银河系 → 需要**超越银河系算力**的计算机
-- 现代研究：拉普拉斯妖的数据处理极限约为 **10^120 比特**
-- 超过宇宙历史时间内的运算能力
-
-</div>
-
-<div class="mt-4 p-3 bg-yellow-500/10 border-l-4 border-yellow-500 rounded text-xs">
-  <b>⚠️ 注：</b>此理论已被量子力学的不确定性原理所质疑，但作为思想实验仍有启发价值
-</div>
-
-</div>
+<div class="grid grid-cols-2 gap-8 items-center h-full pt-4">
 
 <div>
+  <h3 class="text-xl font-bold mb-4">拉普拉斯妖 (Laplace's Demon)</h3>
+  <div class="bg-gray-500/5 p-5 rounded-xl border border-gray-500/20 text-sm space-y-4">
+    <div><b>1814年拉普拉斯提出：</b></div>
+    <ul class="list-disc pl-4 space-y-2 opacity-90">
+      <li>若知宇宙所有原子位置/动量，可由物理定律<b>预测一切</b></li>
+      <li>"未来只会像过去般出现在他面前"</li>
+    </ul>
+  </div>
+  
+  <div class="mt-6 p-4 bg-yellow-500/10 border-l-4 border-yellow-500 rounded text-xs">
+    <b>🤔 算力悖论：</b>
+    要模拟宇宙，需要一个比宇宙更大的计算机。
+    但如果<b>宇宙本身就是一台量子计算机</b>呢？
+  </div>
+</div>
 
-### 宇宙的量子计算本质
-
-<div class="mt-3 text-center">
+<div class="text-center">
   <video controls autoplay loop muted class="w-full rounded-xl shadow-2xl border-2 border-blue-500/30">
     <source src="/universe-quantum.mp4" type="video/mp4">
     您的浏览器不支持视频播放
   </video>
-  <div class="text-xs opacity-60 mt-2">从量子物理角度理解宇宙的计算特性</div>
-</div>
-
-### 六爻的理解
-
-<div class="bg-blue-500/5 p-4 rounded-lg border border-blue-500/20 mt-4">
-
-<div class="space-y-3 text-xs">
-
-<div class="flex items-start gap-2">
-  <span class="text-lg">🖥️</span>
-  <div>如果存在一个超越我们宇宙的<b>"高维计算机"</b></div>
-</div>
-
-<div class="flex items-start gap-2">
-  <span class="text-lg">📊</span>
-  <div>它可以计算出宇宙中任何事件的走向</div>
-</div>
-
-<div class="flex items-start gap-2">
-  <span class="text-lg">🙏</span>
-  <div>起卦时的虔诚心念 = 向这个"高维系统"<b>发出查询请求</b></div>
-</div>
-
-<div class="flex items-start gap-2">
-  <span class="text-lg">📮</span>
-  <div>卦象 = <b>高维计算的反馈结果</b></div>
-</div>
-
-<div class="flex items-start gap-2">
-  <span class="text-lg">📸</span>
-  <div>起卦 = 对当前时空做了一个"快照"，从中读取信息</div>
+  <div class="text-sm opacity-60 mt-3">Visualizing the Universe as a Quantum Computer</div>
 </div>
 
 </div>
 
+---
+
+# 解释五：高维计算机理论 (2/2)
+
+<div class="max-w-4xl mx-auto pt-4">
+
+<h3 class="text-xl font-bold text-center mb-6">六爻：高维系统的交互终端</h3>
+
+<div class="grid grid-cols-2 gap-8 items-center">
+
+<div class="space-y-4">
+  <div class="flex items-center gap-4">
+    <div class="w-10 h-10 rounded-full bg-blue-500/20 flex items-center justify-center text-xl">🖥️</div>
+    <div>
+      <div class="font-bold text-base">高维主机</div>
+      <div class="text-xs opacity-70">超越时空的宇宙运算系统</div>
+    </div>
+  </div>
+  
+  <div class="flex items-center gap-4">
+    <div class="w-10 h-10 rounded-full bg-purple-500/20 flex items-center justify-center text-xl">🙏</div>
+    <div>
+      <div class="font-bold text-base">查询请求</div>
+      <div class="text-xs opacity-70">起卦时的虔诚心念 (Input)</div>
+    </div>
+  </div>
+
+  <div class="flex items-center gap-4">
+    <div class="w-10 h-10 rounded-full bg-green-500/20 flex items-center justify-center text-xl">📮</div>
+    <div>
+      <div class="font-bold text-base">反馈结果</div>
+      <div class="text-xs opacity-70">卦象 (Output)</div>
+    </div>
+  </div>
+</div>
+
+<div class="bg-gradient-to-br from-blue-500/10 to-purple-500/10 p-6 rounded-2xl border border-blue-500/20 text-center shadow-lg">
+  <div class="text-5xl mb-4">📸</div>
+  <div class="text-lg font-bold mb-2">时空快照</div>
+  <p class="text-sm opacity-80 leading-snug">
+    起卦不是"预测未来"<br/>
+    而是读取当前时空状态下<br/>
+    <b>高维计算的演化趋势</b>
+  </p>
 </div>
 
 </div>
@@ -1179,7 +1153,7 @@ Divination / Liu Yao
 
 # 五种框架对比总结
 
-<div class="overflow-x-auto text-xs pt-6">
+<div class="overflow-x-auto text-[10px] pt-2">
 
 | 解释框架 | 核心逻辑 | 来源 | 可验证性 |
 |---|---|---|---|
@@ -1191,28 +1165,28 @@ Divination / Liu Yao
 
 </div>
 
-<div class="mt-10 p-6 bg-gradient-to-r from-blue-500/10 to-purple-500/10 rounded-xl border border-blue-500/30">
+<div class="mt-4 p-4 bg-gradient-to-r from-blue-500/10 to-purple-500/10 rounded-xl border border-blue-500/30">
 
-### 共识点
+<h3 class="text-sm font-bold text-center mb-2">🎯 核心共识</h3>
 
-<div class="grid grid-cols-3 gap-6 mt-4 text-sm">
+<div class="grid grid-cols-3 gap-4 mt-2 text-xs">
 
 <div class="text-center">
-  <div class="text-3xl mb-2">🧘</div>
-  <b>心念至关重要</b>
-  <div class="text-xs mt-2 opacity-80">所有框架都承认起卦时的心念状态决定准确性</div>
+  <div class="text-2xl mb-1">🧘</div>
+  <b class="block mb-1">心念至关重要</b>
+  <div class="text-[10px] opacity-70 leading-tight">心念状态决定<br/>起卦准确性</div>
 </div>
 
 <div class="text-center">
-  <div class="text-3xl mb-2">🌉</div>
-  <b>信息桥梁</b>
-  <div class="text-xs mt-2 opacity-80">心念是连接人与宇宙信息的桥梁</div>
+  <div class="text-2xl mb-1">🌉</div>
+  <b class="block mb-1">信息桥梁</b>
+  <div class="text-[10px] opacity-70 leading-tight">连接人与宇宙<br/>信息的纽带</div>
 </div>
 
 <div class="text-center">
-  <div class="text-3xl mb-2">🔑</div>
-  <b>解读为关键</b>
-  <div class="text-xs mt-2 opacity-80">卦象是信息载体，关键在于如何解读</div>
+  <div class="text-2xl mb-1">🔑</div>
+  <b class="block mb-1">解读为关键</b>
+  <div class="text-[10px] opacity-70 leading-tight">卦象为载体<br/>解读是核心</div>
 </div>
 
 </div>
@@ -1223,67 +1197,46 @@ Divination / Liu Yao
 
 # 4.2 六爻实操简介
 
-<div class="grid grid-cols-2 gap-10 pt-6">
+<div class="grid grid-cols-2 gap-4 pt-1">
 
 <div>
 
-### 起卦方法
+<h3 class="text-sm font-bold">🔮 起卦方法</h3>
 
-<div class="bg-blue-500/5 p-5 rounded-lg border border-blue-500/20 mt-4 space-y-3 text-sm">
-
-- **铜钱法**（三枚铜钱摇六次）
-- **时间起卦**
-- **数字起卦**
-- **声音起卦、方位起卦**等
-
+<div class="bg-blue-500/5 px-3 py-2 rounded-lg border border-blue-500/20 mt-1">
+<ul class="text-[11px] space-y-0.5 opacity-90">
+<li>• <b>铜钱法</b>（三枚铜钱摇六次）</li>
+</ul>
 </div>
 
-### 装卦步骤
+<h3 class="text-sm font-bold mt-3">🛠️ 装卦步骤</h3>
 
-<div class="bg-green-500/5 p-5 rounded-lg border border-green-500/20 mt-6 space-y-3 text-sm">
-
-1. **安世应**
-2. **配六亲**（父母、兄弟、子孙、妻财、官鬼）
-3. **安六神**（青龙、朱雀、勾陈、螣蛇、白虎、玄武）
-
+<div class="bg-green-500/5 px-3 py-2 rounded-lg border border-green-500/20 mt-1">
+<ol class="text-[11px] space-y-0.5 opacity-90">
+<li>1. <b>安世应</b>：确定主体与客体</li>
+<li>2. <b>配六亲</b>：父母/兄弟/子孙/财/官</li>
+<li>3. <b>安六神</b>：青龙/朱雀/勾陈/螣蛇...</li>
+</ol>
 </div>
 
 </div>
 
 <div>
 
-### 断卦基础
+<h3 class="text-sm font-bold">🔍 断卦基础</h3>
 
-<div class="bg-purple-500/5 p-5 rounded-lg border border-purple-500/20 mt-4">
-
-<div class="space-y-4 text-sm">
-
-<div class="border-l-4 border-purple-500 pl-4 py-2">
-  <b>1. 确定用神</b> — 找到代表所问之事的核心要素
+<div class="bg-purple-500/5 px-3 py-2 rounded-lg border border-purple-500/20 mt-1">
+<div class="space-y-1.5 text-[11px]">
+<div class="border-l-2 border-purple-500 pl-2"><b>1. 确定用神</b>：核心要素</div>
+<div class="border-l-2 border-blue-500 pl-2"><b>2. 分析三神</b>：原/忌/仇神</div>
+<div class="border-l-2 border-green-500 pl-2"><b>3. 看动变</b>：关注卦象变化</div>
+<div class="border-l-2 border-orange-500 pl-2"><b>4. 结合日月</b>：参考时间因素</div>
+<div class="border-l-2 border-red-500 pl-2"><b>5. 论合冲</b>：分析关系状态</div>
+</div>
 </div>
 
-<div class="border-l-4 border-blue-500 pl-4 py-2">
-  <b>2. 分析三神</b> — 原神、忌神、仇神
-</div>
-
-<div class="border-l-4 border-green-500 pl-4 py-2">
-  <b>3. 看动爻、变爻</b> — 关注卦象变化
-</div>
-
-<div class="border-l-4 border-orange-500 pl-4 py-2">
-  <b>4. 结合日月</b> — 参考时间因素
-</div>
-
-<div class="border-l-4 border-red-500 pl-4 py-2">
-  <b>5. 论六合六冲</b> — 分析关系状态
-</div>
-
-</div>
-
-</div>
-
-<div class="mt-6 p-4 bg-yellow-500/10 border-l-4 border-yellow-500 rounded text-xs">
-  <b>⚠️ 核心原则：</b>不诚不占、不疑不占、不义不占
+<div class="mt-3 p-2 bg-yellow-500/10 border-l-4 border-yellow-500 rounded text-[10px]">
+<b>⚠️ 核心原则：</b>不诚不占、不疑不占、不义不占
 </div>
 
 </div>
@@ -1301,19 +1254,19 @@ Guidelines & Boundaries
 
 # 术数的边界对比
 
-<div class="grid grid-cols-2 gap-6 pt-2">
+<div class="grid grid-cols-2 gap-4 pt-1">
 
 <!-- 八字命理 -->
-<div class="space-y-4">
+<div class="space-y-2">
 
-<div class="text-center mb-4">
-<div class="text-2xl font-bold bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">八字命理</div>
-<div class="text-sm opacity-60">长期趋势参考系统</div>
+<div class="text-center mb-2">
+<div class="text-xl font-bold bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">八字命理</div>
+<div class="text-xs opacity-60">长期趋势参考系统</div>
 </div>
 
-<div class="p-4 rounded-xl bg-gradient-to-br from-green-500/10 to-emerald-500/10 border-2 border-green-500/30">
-<div class="font-bold mb-3 text-green-400">✅ 能看的范围</div>
-<div class="space-y-2 text-sm">
+<div class="p-3 rounded-xl bg-gradient-to-br from-green-500/10 to-emerald-500/10 border-2 border-green-500/30">
+<div class="font-bold mb-2 text-green-400 text-sm">✅ 能看的范围</div>
+<div class="space-y-1 text-xs">
 <div>• 性格特质与天赋</div>
 <div>• 大运流年趋势</div>
 <div>• 人生节奏把握</div>
@@ -1323,9 +1276,9 @@ Guidelines & Boundaries
 </div>
 </div>
 
-<div class="p-4 rounded-xl bg-gradient-to-br from-red-500/10 to-orange-500/10 border-2 border-red-500/30">
-<div class="font-bold mb-3 text-red-400">❌ 不能看的范围</div>
-<div class="space-y-2 text-sm">
+<div class="p-3 rounded-xl bg-gradient-to-br from-red-500/10 to-orange-500/10 border-2 border-red-500/30">
+<div class="font-bold mb-2 text-red-400 text-sm">❌ 不能看的范围</div>
+<div class="space-y-1 text-xs">
 <div>• 具体死亡日期</div>
 <div>• 彩票中奖号码</div>
 <div>• 绝对宿命论</div>
@@ -1338,16 +1291,16 @@ Guidelines & Boundaries
 </div>
 
 <!-- 六爻占卜 -->
-<div class="space-y-4">
+<div class="space-y-2">
 
-<div class="text-center mb-4">
-<div class="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">六爻占卜</div>
-<div class="text-sm opacity-60">具体决策辅助工具</div>
+<div class="text-center mb-2">
+<div class="text-xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">六爻占卜</div>
+<div class="text-xs opacity-60">具体决策辅助工具</div>
 </div>
 
-<div class="p-4 rounded-xl bg-gradient-to-br from-blue-500/10 to-cyan-500/10 border-2 border-blue-500/30">
-<div class="font-bold mb-3 text-blue-400">✅ 能算的范围</div>
-<div class="space-y-2 text-sm">
+<div class="p-3 rounded-xl bg-gradient-to-br from-blue-500/10 to-cyan-500/10 border-2 border-blue-500/30">
+<div class="font-bold mb-2 text-blue-400 text-sm">✅ 能算的范围</div>
+<div class="space-y-1 text-xs">
 <div>• 具体事件成败</div>
 <div>• 决策方向选择</div>
 <div>• 失物寻找定位</div>
@@ -1357,9 +1310,9 @@ Guidelines & Boundaries
 </div>
 </div>
 
-<div class="p-4 rounded-xl bg-gradient-to-br from-purple-500/10 to-pink-500/10 border-2 border-purple-500/30">
-<div class="font-bold mb-3 text-purple-400">❌ 不能算的范围</div>
-<div class="space-y-2 text-sm">
+<div class="p-3 rounded-xl bg-gradient-to-br from-purple-500/10 to-pink-500/10 border-2 border-purple-500/30">
+<div class="font-bold mb-2 text-purple-400 text-sm">❌ 不能算的范围</div>
+<div class="space-y-1 text-xs">
 <div>• 无诚意测试</div>
 <div>• 过度宏大问题</div>
 <div>• 重复占问</div>
@@ -1373,8 +1326,8 @@ Guidelines & Boundaries
 
 </div>
 
-<div class="pt-6 text-center">
-<div class="inline-block px-8 py-3 rounded-lg bg-yellow-500/20 border-2 border-yellow-500/50 text-base">
+<div class="pt-4 text-center">
+<div class="inline-block px-6 py-2 rounded-lg bg-yellow-500/20 border-2 border-yellow-500/50 text-sm">
 ⚠️ <span class="font-bold">核心原则</span>：玄学是<span class="font-bold">辅助决策</span>的工具，不是<span class="font-bold">替代思考</span>的捷径
 </div>
 </div>
@@ -1390,56 +1343,28 @@ Scientific Perspective
 
 # 6.1 古人的智慧
 
-<div class="max-w-4xl mx-auto pt-8">
+<div class="max-w-3xl mx-auto">
 
-<div class="p-8 rounded-2xl bg-gradient-to-br from-amber-500/10 to-orange-500/10 border-2 border-amber-500/30">
+<div class="p-3 rounded-xl bg-gradient-to-br from-amber-500/10 to-orange-500/10 border-2 border-amber-500/30">
 
-<div class="text-center mb-8">
-
-<div class="text-5xl font-bold mb-6 bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">
-
-"善易者不卜"
-
+<div class="text-center mb-1">
+<div class="text-2xl font-bold bg-gradient-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">"善易者不卜"</div>
+<div class="text-xs opacity-70">—— 孔子《周易·系辞传》</div>
 </div>
 
-<div class="text-xl opacity-70">—— 孔子《周易·系辞传》</div>
-
+<div class="space-y-1 text-xs">
+<b>深层解读：</b>
+<div class="grid grid-cols-1 gap-1">
+<div class="px-3 py-1.5 rounded-lg bg-white/5 border border-white/10"><b>1. "善易者"</b>：真正精通易经智慧的人</div>
+<div class="px-3 py-1.5 rounded-lg bg-white/5 border border-white/10"><b>2. "不卜"</b>：不依赖占卜，而非不需要</div>
+<div class="px-3 py-1.5 rounded-lg bg-white/5 border border-white/10"><b>3. 核心逻辑</b>：理解阴阳规律，自然做出正确决策</div>
 </div>
-
-<div class="space-y-6 text-lg">
-
-**深层解读：**
-
-<div class="grid grid-cols-1 gap-4 pt-4">
-
-<div class="p-4 rounded-lg bg-white/5 border border-white/10">
-
-**1. "善易者"** = 真正精通易经智慧的人
-
-</div>
-
-<div class="p-4 rounded-lg bg-white/5 border border-white/10">
-
-**2. "不卜"** ≠ 不需要占卜，而是**不依赖占卜**
-
-</div>
-
-<div class="p-4 rounded-lg bg-white/5 border border-white/10">
-
-**3. 核心逻辑** = 当你理解了**阴阳变化规律**，就能自然做出正确决策
-
 </div>
 
 </div>
 
-</div>
-
-</div>
-
-<div class="pt-12 text-center text-xl opacity-80">
-
+<div class="mt-3 text-center text-sm opacity-80">
 🎯 **最高境界**：不是"算得准"，而是**"不用算"**
-
 </div>
 
 </div>
@@ -1448,93 +1373,45 @@ Scientific Perspective
 
 # 6.2 工具论：玄学的正确定位
 
-<div class="max-w-4xl mx-auto pt-6">
+<div class="max-w-4xl mx-auto pt-1">
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-3">
 
-<div class="p-6 rounded-xl bg-gradient-to-br from-blue-500/10 to-cyan-500/10 border-2 border-blue-500/30">
-
-### 🧭 GPS导航隐喻
-
-<div class="space-y-4 text-base pt-4">
-
-**玄学 = GPS导航系统**
-- 提供路线参考
-- 预警前方风险
+<div class="p-4 rounded-xl bg-gradient-to-br from-blue-500/10 to-cyan-500/10 border-2 border-blue-500/30">
+<h3 class="text-lg font-bold">🧭 GPS导航隐喻</h3>
+<div class="space-y-2 text-xs pt-2">
+<b>玄学 = GPS导航系统</b>
+- 提供路线参考 / 预警前方风险
 - 建议最优路径
 
-**你 = 驾驶员**
-- 最终决策者
-- 可以选择不同路线
-- 对结果负全责
-
+<b>你 = 驾驶员</b>
+- 最终决策者 / 对结果负全责
+</div>
 </div>
 
-</div>
-
-<div class="p-6 rounded-xl bg-gradient-to-br from-purple-500/10 to-pink-500/10 border-2 border-purple-500/30">
-
-### 🗺️ 地图隐喻
-
-<div class="space-y-4 text-base pt-4">
-
-**命理 = 人生地图**
+<div class="p-4 rounded-xl bg-gradient-to-br from-purple-500/10 to-pink-500/10 border-2 border-purple-500/30">
+<h3 class="text-lg font-bold">🗺️ 地图隐喻</h3>
+<div class="space-y-2 text-xs pt-2">
+<b>命理 = 人生地图</b>
 - 标注地形（性格特质）
 - 显示路线（运势走向）
-- 指示关键点（重要时间节点）
+- 指示关键点
 
-**重点**：
-地图只能**告诉你路在哪**，
-不能**替你走路**
-
+<b>重点</b>：地图只能<b>路在哪</b>，不能<b>替你走</b>
+</div>
 </div>
 
 </div>
 
+<div class="mt-4 p-4 rounded-xl bg-gradient-to-r from-green-500/10 to-emerald-500/10 border-2 border-green-500/30">
+<h3 class="text-center font-bold text-sm mb-2">🎯 三层关系</h3>
+<div class="grid grid-cols-3 gap-2 text-center items-center">
+<div><b class="text-sm">知命</b><div class="text-[10px] opacity-70">了解地图</div></div>
+<div class="text-xl">→</div>
+<div><b class="text-sm">顺命</b><div class="text-[10px] opacity-70">选择最优路线</div></div>
+<div class="text-xl">→</div>
+<div><b class="text-sm">改命</b><div class="text-[10px] opacity-70">主动规划行程</div></div>
 </div>
-
-<div class="pt-10 p-8 rounded-2xl bg-gradient-to-r from-green-500/10 to-emerald-500/10 border-2 border-green-500/30">
-
-### 🎯 三层关系
-
-<div class="grid grid-cols-3 gap-6 pt-6 text-center">
-
-<div>
-
-**知命**
-
-了解地图
-
-<div class="text-sm opacity-70 pt-2">认识自己的先天条件</div>
-
-</div>
-
-<div class="flex items-center justify-center text-4xl">→</div>
-
-<div>
-
-**顺命**
-
-选择最优路线
-
-<div class="text-sm opacity-70 pt-2">顺应规律，减少内耗</div>
-
-</div>
-
-<div class="flex items-center justify-center text-4xl">→</div>
-
-<div>
-
-**改命**
-
-主动规划行程
-
-<div class="text-sm opacity-70 pt-2">在规律内最大化主观能动性</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -1546,44 +1423,38 @@ class: text-center
 
 # 6.3 最终寄语
 
-<div class="max-w-4xl mx-auto pt-8 space-y-12">
+<div class="max-w-4xl mx-auto pt-2 space-y-4">
 
-<div class="p-8 rounded-2xl bg-gradient-to-br from-indigo-500/10 to-purple-500/10 border-2 border-indigo-500/30">
-
-<div class="text-3xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-
-支配工具，不被工具支配 🌟
-
+<div class="p-4 rounded-xl bg-gradient-to-br from-indigo-500/10 to-purple-500/10 border-2 border-indigo-500/30">
+<div class="text-xl font-bold mb-2 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">支配工具，不被工具支配 🌟</div>
+<div class="grid grid-cols-2 gap-4 text-xs text-left">
+<div>
+<b>✅ 正确的玄学观：</b>
+<ul class="list-disc pl-4 mt-1 opacity-90">
+<li>辅助决策，而非替代思考</li>
+<li>相信概率趋势，而非绝对宿命</li>
+<li>保持理性怀疑，而非盲目迷信</li>
+<li>追求自我成长</li>
+</ul>
+</div>
+<div>
+<b>❌ 错误的玄学观：</b>
+<ul class="list-disc pl-4 mt-1 opacity-90">
+<li>把命运交给"大师"</li>
+<li>遇事不思考，直接占卜</li>
+<li>结果不如意就反复起卦</li>
+<li>逃避现实责任</li>
+</ul>
+</div>
+</div>
 </div>
 
-<div class="space-y-4 text-lg text-left">
-
-**✅ 正确的玄学观：**
-- 用玄学**辅助决策**，而非替代思考
-- 相信**概率与趋势**，而非绝对宿命
-- 保持**理性怀疑**，而非盲目迷信
-- 追求**自我成长**，而非依赖预测
-
-**❌ 错误的玄学观：**
-- 把命运完全交给"大师"
-- 遇事不思考，直接占卜
-- 占卜结果不如意就反复起卦
-- 用玄学逃避现实责任
-
-</div>
-
-</div>
-
-<div class="text-2xl font-bold opacity-90">
-
+<div class="text-lg font-bold opacity-90">
 **记住**：玄学是一张地图，但路要自己走 🚶
-
 </div>
 
-<div class="pt-8 text-xl opacity-70">
-
+<div class="pt-2 text-base opacity-70">
 愿你在探索传统智慧的路上，保持**好奇**与**清醒** 🧭
-
 </div>
 
 </div>
