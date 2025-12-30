@@ -298,7 +298,7 @@ layout: default
 <ul class="list-disc pl-4 mt-3 space-y-1.5">
   <li><b>方剂</b>: 中药辩证施治</li>
   <li><b>针灸</b>: 经络穴位调理</li>
-  <li><b>灵治</b>: 心理与能量平衡 (收惊/催眠类)</li>
+  <li><b>灵治 (祝由术)</b>: 心理与能量平衡 (收惊/催眠类)</li>
 </ul>
 </div>
 
@@ -319,7 +319,6 @@ layout: default
   <li><b>人相</b>: 面相、手相</li>
   <li><b>宅相/墓相</b>: 风水 (阳宅/阴宅)</li>
   <li><b>名相</b>: 姓名学</li>
-  <li><b>印相</b>: 印章吉凶</li>
 </ul>
 </div>
 
@@ -327,7 +326,7 @@ layout: default
 <div class="font-bold text-xl mb-3 text-purple-400">卜</div>
 <b class="text-xs">预测与决策</b>
 <ul class="list-disc pl-4 mt-3 space-y-1.5">
-  <li><b>占卜</b>: 周易、六壬</li>
+  <li><b>占卜</b>: 六爻，梅花易数，大六壬</li>
   <li><b>选吉</b>: 奇门遁甲 (择日定向)</li>
   <li><b>测局</b>: 太乙神数 (宏观局势)</li>
 </ul>
